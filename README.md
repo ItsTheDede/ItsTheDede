@@ -1,16 +1,17 @@
-## Hi there 👋
+## Meu perfil
 
-<!--
-**ItsTheDede/ItsTheDede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Quem é o Dede?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Meu nome de verdade: André
+  - A minha idade: 16 anos
+  - Em moro em: Leiria
+  - A minha data do meu aniversário é: 23/07
+
+---
+
+# Onde me contactar?
+
+  - Twitter: https://x.com/Dedde076
+  - E-mail: dedeee.dev@gmail.com
