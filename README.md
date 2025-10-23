@@ -1,5 +1,3 @@
-## Meu perfil
-
 # Quem é o Dede?
 
   - Meu nome de verdade: André
