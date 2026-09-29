@@ -1,7 +1,7 @@
-# :octocat: spaam-goxmesss
+# DedeItsCute
 
 ─── ⋆⋅☆⋅⋆ ───
 
-:flag_pt: Portugal &nbsp;|&nbsp; :school: Ensino Médio &nbsp;|&nbsp; :bookmark_tabs: Programador Informático &nbsp;|&nbsp; :art: Desenhista &nbsp;|&nbsp; :man_playing_handball: Handebol Player
+🇵🇹 Portugal &nbsp;|&nbsp; 🏫 Ensino Médio &nbsp;|&nbsp; 👨‍💻 Programador Informático &nbsp;|&nbsp; 🎨 Desenhista &nbsp;|&nbsp; 🤾‍♂️ Handebol Player
 
 ─── ⋆⋅☆⋅⋆ ───
