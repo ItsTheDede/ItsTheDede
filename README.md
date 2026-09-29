@@ -1,6 +1,6 @@
 # Olá, eu sou o Dede!
 
-Esta é a minha página do Github, onde irei compartilhar alguns projetos públicos e que pessoas possam trabalhar futuramente. Tenho algumas coisas especificas sobre mim:
+Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públicos e que pessoas possam trabalhar futuramente. Tenho algumas coisas específicas sobre mim:
   - 🇵🇹 Portugal;
   - 🦊 Furry;
   - 🏳️‍🌈 Gay;
@@ -24,5 +24,5 @@ Esta é a minha página do Github, onde irei compartilhar alguns projetos públi
 # Onde me contactar?
 
   - E-mail: dedeee.dev@gmail.com
-  - ![Twitter/X](https://x.com/Dedde076)
-  - ![Instagram](https://www.instagram.com/goxmesss?stkn=NXIzMXdid2luYTE5)
+  - [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dedde076)
+  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goxmesss)
