@@ -1,28 +1,29 @@
-# Olá, eu sou o Dede!
+# Olá, eu sou o Dede! 👋
 
 Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públicos e que pessoas possam trabalhar futuramente. Tenho algumas coisas específicas sobre mim:
-  - 🇵🇹 Portugal;
-  - 🦊 Furry;
-  - 🏳️‍🌈 Gay;
-  - 🎨 Desenhista;
-  - 🤾‍♂️ Handebol Player.
 
-# O que gosto de trabalhar
+- 🇵🇹 Portugal
+- 🦊 Furry
+- 🏳️‍🌈 Gay
+- 🎨 Desenhista
+- 🤾‍♂️ Handebol Player
 
-  - Desenvolvimento Web (Front-end & Back-end)
-  - Projetos criativos que unem código e arte
+## O que gosto de trabalhar
 
-# Linguagens que Trabalho:
+- Desenvolvimento Web (Front-end & Back-end)
+- Projetos criativos que unem código e arte
 
-  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## Linguagens que Trabalho
 
-# Onde me contactar?
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  - E-mail: dedeee.dev@gmail.com
-  - [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dedde076)
-  - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goxmesss)
+## Onde me contactar
+
+- 📧 E-mail: dedeee.dev@gmail.com
+- [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dedde076)
