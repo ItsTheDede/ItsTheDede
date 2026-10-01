@@ -10,7 +10,7 @@ Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públi
 
 ## Minha fursona
 
-  -![Minha fursona](./assets/images/Captura_de_ecrã_2026-10-01_121154.png)
+![Minha fursona](./assets/images/Captura_de_ecrã_2026-10-01_121154.png)
 
 ## O que gosto de trabalhar
 
