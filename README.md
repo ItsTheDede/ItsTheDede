@@ -8,10 +8,6 @@ Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públi
 - 🎨 Desenhista
 - 🤾‍♂️ Handebol Player
 
-## Minha fursona
-
-![Minha fursona](./assets/images/Captura_de_ecrã_2026-10-01_121154.png)
-
 ## O que gosto de trabalhar
 
 - Desenvolvimento Web (Front-end & Back-end)
@@ -31,3 +27,7 @@ Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públi
 
 - 📧 E-mail: dedeee.dev@gmail.com
 - [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dedde076)
+
+## Minha fursona
+
+![Minha fursona](./assets/images/Captura_de_ecrã_2026-10-01_121154.png)
