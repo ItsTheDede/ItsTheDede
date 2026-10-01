@@ -8,10 +8,6 @@ Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públi
 - 🎨 Desenhista
 - 🤾‍♂️ Handebol Player
 
-## Minha fursona
-
-  -![Minha Sona](https://postimg.cc/21ggr9Kg)
-
 ## O que gosto de trabalhar
 
 - Desenvolvimento Web (Front-end & Back-end)
