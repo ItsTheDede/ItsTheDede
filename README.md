@@ -1,5 +1,6 @@
-# Olá, eu sou o Dede! 👋
+# Bem-vindo ao meu github!👋
 
+Olá, eu sou o Dede!
 Esta é a minha página do GitHub, onde irei compartilhar alguns projetos públicos e que pessoas possam trabalhar futuramente. Tenho algumas coisas específicas sobre mim:
 
 - 🇵🇹 Portugal
