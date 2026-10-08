@@ -1,9 +1,8 @@
 # Bem-vindo ao meu github!👋
 
 Olá, eu sou o Dede!
-Irei compartilhar alguns projetos públicos e que pessoas possam trabalhar futuramente. Tenho algumas coisas específicas sobre mim:
-
-- 🇵🇹 Portugal
+Irei compartilhar alguns projetos públicos, quero me formar em Engenharia Informática. Pretendo futuramente morar fora do país, mas sempre serei Portugal 🇵🇹
+algumas coisas sobre mim:
 - 🦊 Furry
 - 🏳️‍🌈 Gay
 - 🎨 Desenhista
