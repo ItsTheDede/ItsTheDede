@@ -6,7 +6,7 @@ algumas coisas sobre mim:
 - 🦊 Furry
 - 🏳️‍🌈 Gay
 - 🎨 Desenhista
-- 🤾‍♂️ Handeball Player
+- 🤾‍♂️ Handball Player
 
 ## O que gosto de trabalhar
 
