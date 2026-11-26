@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub! 👋
 
 Olá, eu sou o Dede!
-Irei compartilhar alguns projetos públicos. Quero me formar em Engenharia Informática. Pretendo futuramente morar fora do país, mas sempre serei Portugal 🇵🇹
+Irei compartilhar alguns projetos públicos. Quero me formar em Engenharia Informática/Engenharia Computacional. Pretendo futuramente morar fora do país, mas sempre serei Portugal 🇵🇹
 
 ### Algumas coisas sobre mim:
 - 🦊 Furry
